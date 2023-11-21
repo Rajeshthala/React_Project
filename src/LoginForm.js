@@ -1,5 +1,3 @@
-// LoginForm.js
-
 import React from 'react';
 import { DialogTitle, DialogContent, TextField, DialogActions, Button } from '@mui/material';
 
