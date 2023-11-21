@@ -1,5 +1,3 @@
-// ContactPage.js
-
 import React from 'react';
 import { Container, Typography, Divider } from '@mui/material';
 
