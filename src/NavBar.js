@@ -1,4 +1,3 @@
-// NavBar.js
 
 import React, { useState } from 'react';
 import { AppBar, Toolbar, Typography, Button, Dialog, Hidden, TextField } from '@mui/material';
@@ -30,7 +29,6 @@ const NavBar = () => {
 
   const handleSearchSubmit = (event) => {
     event.preventDefault();
-    // Implement search functionality here if needed
     console.log('Search Query:', searchQuery);
   };
 
